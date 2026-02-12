@@ -1,0 +1,1 @@
+The purpose of this script for now is to donwload IG reels (probably in english), translate the audio to portugues and also add portuguese subtitles.
