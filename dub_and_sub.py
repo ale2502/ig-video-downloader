@@ -8,6 +8,8 @@ import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 from typing import List, Dict, Any, Optional
+from dotenv import load_dotenv
+load_dotenv()
 
 from tqdm import tqdm
 from openai import OpenAI
